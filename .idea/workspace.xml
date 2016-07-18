@@ -27,38 +27,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bementee.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bementee.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bementee.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="690" column="112" selection-start-line="690" selection-start-column="112" selection-end-line="690" selection-end-column="112" />
+            <state relative-caret-position="146">
+              <caret line="693" column="273" selection-start-line="693" selection-start-column="273" selection-end-line="693" selection-end-column="273" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#h5#0;n#div#2;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#span#0;n#h5#0;n#div#2;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1468839047865" expanded="true" signature="12341:12351" ph="..." />
-                <marker date="1468839047865" expanded="true" signature="12542:12552" ph="..." />
-                <marker date="1468839047865" expanded="true" signature="12633:12643" ph="..." />
+                <marker date="1468840103548" expanded="true" signature="12341:12351" ph="..." />
+                <marker date="1468840103548" expanded="true" signature="12542:12552" ph="..." />
+                <marker date="1468840103548" expanded="true" signature="12633:12643" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bementor.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bementor.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bementor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="582" column="112" selection-start-line="582" selection-start-column="112" selection-end-line="582" selection-end-column="112" />
+            <state relative-caret-position="282">
+              <caret line="586" column="273" selection-start-line="586" selection-start-column="273" selection-end-line="586" selection-end-column="273" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#h5#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1468839031278" expanded="true" signature="12319:12329" ph="..." />
-                <marker date="1468839031278" expanded="true" signature="12520:12530" ph="..." />
-                <marker date="1468839031278" expanded="true" signature="12611:12621" ph="..." />
+                <marker date="1468840139624" expanded="true" signature="12319:12329" ph="..." />
+                <marker date="1468840139624" expanded="true" signature="12520:12530" ph="..." />
+                <marker date="1468840139624" expanded="true" signature="12611:12621" ph="..." />
               </folding>
             </state>
           </provider>
@@ -80,8 +80,8 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/story.html" />
-        <option value="$PROJECT_DIR$/bementor.html" />
         <option value="$PROJECT_DIR$/bementee.html" />
+        <option value="$PROJECT_DIR$/bementor.html" />
       </list>
     </option>
   </component>
@@ -258,12 +258,12 @@
       <option name="presentableId" value="Default" />
       <updated>1468269691638</updated>
       <workItem from="1468269695390" duration="9891000" />
-      <workItem from="1468834718674" duration="3160000" />
+      <workItem from="1468834718674" duration="3785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13051000" />
+    <option name="totallyTimeSpent" value="13676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="-8" width="1312" height="784" extended-state="6" />
@@ -321,9 +321,9 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h5#0;n#div#2;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#span#0;n#h5#0;n#div#2;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1468839047865" expanded="true" signature="12341:12351" ph="..." />
-            <marker date="1468839047865" expanded="true" signature="12542:12552" ph="..." />
-            <marker date="1468839047865" expanded="true" signature="12633:12643" ph="..." />
+            <marker date="1468840103548" expanded="true" signature="12341:12351" ph="..." />
+            <marker date="1468840103548" expanded="true" signature="12542:12552" ph="..." />
+            <marker date="1468840103548" expanded="true" signature="12633:12643" ph="..." />
           </folding>
         </state>
       </provider>
@@ -337,9 +337,9 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#h5#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1468839031278" expanded="true" signature="12319:12329" ph="..." />
-            <marker date="1468839031278" expanded="true" signature="12520:12530" ph="..." />
-            <marker date="1468839031278" expanded="true" signature="12611:12621" ph="..." />
+            <marker date="1468840139624" expanded="true" signature="12319:12329" ph="..." />
+            <marker date="1468840139624" expanded="true" signature="12520:12530" ph="..." />
+            <marker date="1468840139624" expanded="true" signature="12611:12621" ph="..." />
           </folding>
         </state>
       </provider>
@@ -372,35 +372,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bementor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="582" column="112" selection-start-line="582" selection-start-column="112" selection-end-line="582" selection-end-column="112" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#h5#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1468839031278" expanded="true" signature="12319:12329" ph="..." />
-            <marker date="1468839031278" expanded="true" signature="12520:12530" ph="..." />
-            <marker date="1468839031278" expanded="true" signature="12611:12621" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bementee.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="690" column="112" selection-start-line="690" selection-start-column="112" selection-end-line="690" selection-end-column="112" />
+        <state relative-caret-position="146">
+          <caret line="693" column="273" selection-start-line="693" selection-start-column="273" selection-end-line="693" selection-end-column="273" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h5#0;n#div#2;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#span#0;n#h5#0;n#div#2;n#div#1;n#div#3;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1468839047865" expanded="true" signature="12341:12351" ph="..." />
-            <marker date="1468839047865" expanded="true" signature="12542:12552" ph="..." />
-            <marker date="1468839047865" expanded="true" signature="12633:12643" ph="..." />
+            <marker date="1468840103548" expanded="true" signature="12341:12351" ph="..." />
+            <marker date="1468840103548" expanded="true" signature="12542:12552" ph="..." />
+            <marker date="1468840103548" expanded="true" signature="12633:12643" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bementor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="586" column="273" selection-start-line="586" selection-start-column="273" selection-end-line="586" selection-end-column="273" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#h5#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#2;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1468840139624" expanded="true" signature="12319:12329" ph="..." />
+            <marker date="1468840139624" expanded="true" signature="12520:12530" ph="..." />
+            <marker date="1468840139624" expanded="true" signature="12611:12621" ph="..." />
           </folding>
         </state>
       </provider>
